@@ -5,6 +5,7 @@
     color: #f8f8f8;
     background: url(../img/intro-bg_1.jpg) no-repeat center center;
     background-size: cover;
+
 }
 
 #banner_content {
@@ -19,9 +20,15 @@
 }
 
 footer {
-    padding: 10px 0;
+    padding: 0 0;
     background-color: #101010;
     color: #9d9d9d;
     bottom: 0;
     width: 100%;
 }
+
+
+/* body{
+    background:linear-gradient(15deg,rgb(219, 124, 223) ,rgb(82, 212, 202),blue) no-repeat  center center;
+   height: 100vh;
+} */
