@@ -1,5 +1,12 @@
 .row_style{
-    margin-top:100px;
-    margin-left: 80px;
+    margin-top:80px;
+    margin-left:380px;
  
+}
+footer {
+    padding: 0 0;
+    background-color: #101010;
+    color: #9d9d9d;
+    bottom: 0;
+    width: 100%;
 }
